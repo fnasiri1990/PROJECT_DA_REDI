@@ -1,2 +1,2 @@
 # PROJECT_DA_REDI
-project for data analyst class
+This is my project about Global pollution which I have done it for my ReDI School course
